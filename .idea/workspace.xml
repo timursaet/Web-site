@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e657bfd-67a7-4992-9421-25e6883da0b5" name="Default Changelist" comment="ы">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bd/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bd/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bd/view_content.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../login/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../navJS/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../navJS/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../navJS/menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../navJS/slide.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../navJS/slide.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../navJS/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../navJS/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
-    </list>
+    <list default="true" id="9e657bfd-67a7-4992-9421-25e6883da0b5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,19 +55,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/calc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+            <state relative-caret-position="269">
+              <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="46">
               <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
             </state>
           </provider>
@@ -99,6 +84,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -172,12 +158,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543053362007</updated>
-      <workItem from="1543053363325" duration="6629000" />
+      <workItem from="1543053363325" duration="7278000" />
     </task>
+    <task id="LOCAL-00001" summary="ы">
+      <created>1543060161632</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543060161632</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6629000" />
+    <option name="totallyTimeSpent" value="7278000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -190,15 +184,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980047" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980047" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49960095" weight="0.32952693" />
+      <window_info anchor="bottom" id="Messages" weight="0.32952693" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49960095" visible="true" weight="0.7879282" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50039905" side_tool="true" weight="0.32952693" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -224,13 +218,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="ы" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
@@ -240,8 +227,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/calc.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        <state relative-caret-position="269">
+          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
         </state>
       </provider>
     </entry>
